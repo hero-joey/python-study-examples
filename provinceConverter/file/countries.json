@@ -1,0 +1,1016 @@
+[{
+	"name": "A",
+	"countries": [{
+			"name": "阿尔巴尼亚",
+			"isChecked": false
+		},
+		{
+			"name": "阿尔及利亚",
+			"isChecked": false
+		},
+		{
+			"name": "阿富汗",
+			"isChecked": false
+		},
+		{
+			"name": "阿根廷",
+			"isChecked": false
+		},
+		{
+			"name": "阿拉伯联合酋长国",
+			"isChecked": false
+		},
+		{
+			"name": "阿鲁巴",
+			"isChecked": false
+		},
+		{
+			"name": "阿曼",
+			"isChecked": false
+		},
+		{
+			"name": "阿塞拜疆",
+			"isChecked": false
+		},
+		{
+			"name": "埃及",
+			"isChecked": false
+		},
+		{
+			"name": "埃塞俄比亚",
+			"isChecked": false
+		},
+		{
+			"name": "爱尔兰",
+			"isChecked": false
+		},
+		{
+			"name": "爱沙尼亚",
+			"isChecked": false
+		},
+		{
+			"name": "安道尔",
+			"isChecked": false
+		},
+		{
+			"name": "安哥拉",
+			"isChecked": false
+		},
+		{
+			"name": "安圭拉",
+			"isChecked": false
+		},
+		{
+			"name": "安提瓜和巴布达",
+			"isChecked": false
+		},
+		{
+			"name": "奥地利",
+			"isChecked": false
+		},
+		{
+			"name": "澳大利亚",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "B",
+	"countries": [{
+			"name": "巴巴多斯",
+			"isChecked": false
+		},
+		{
+			"name": "巴布亚新几内亚",
+			"isChecked": false
+		},
+		{
+			"name": "巴哈马",
+			"isChecked": false
+		},
+		{
+			"name": "巴基斯坦",
+			"isChecked": false
+		},
+		{
+			"name": "巴拉圭",
+			"isChecked": false
+		},
+		{
+			"name": "巴勒斯坦",
+			"isChecked": false
+		},
+		{
+			"name": "巴林",
+			"isChecked": false
+		},
+		{
+			"name": "巴拿马",
+			"isChecked": false
+		},
+		{
+			"name": "巴西",
+			"isChecked": false
+		},
+		{
+			"name": "白俄罗斯",
+			"isChecked": false
+		},
+		{
+			"name": "百慕大",
+			"isChecked": false
+		},
+		{
+			"name": "保加利亚",
+			"isChecked": false
+		},
+		{
+			"name": "北马里亚纳群岛",
+			"isChecked": false
+		},
+		{
+			"name": "贝宁",
+			"isChecked": false
+		},
+		{
+			"name": "比利时",
+			"isChecked": false
+		},
+		{
+			"name": "冰岛",
+			"isChecked": false
+		},
+		{
+			"name": "波多黎各",
+			"isChecked": false
+		},
+		{
+			"name": "波斯尼亚和黑塞哥维那",
+			"isChecked": false
+		},
+		{
+			"name": "波兰",
+			"isChecked": false
+		},
+		{
+			"name": "玻利维亚",
+			"isChecked": false
+		},
+		{
+			"name": "伯利兹",
+			"isChecked": false
+		},
+		{
+			"name": "博茨瓦纳",
+			"isChecked": false
+		},
+		{
+			"name": "不丹",
+			"isChecked": false
+		},
+		{
+			"name": "布基纳法索",
+			"isChecked": false
+		},
+		{
+			"name": "布隆迪",
+			"isChecked": false
+		},
+		{
+			"name": "布维岛",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "C",
+	"countries": [{
+			"name": "朝鲜",
+			"isChecked": false
+		},
+		{
+			"name": "赤道几内亚",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "D",
+	"countries": [{
+			"name": "丹麦",
+			"isChecked": false
+		},
+		{
+			"name": "德国",
+			"isChecked": false
+		},
+		{
+			"name": "东帝汶",
+			"isChecked": false
+		},
+		{
+			"name": "多哥",
+			"isChecked": false
+		},
+		{
+			"name": "多米尼克",
+			"isChecked": false
+		},
+		{
+			"name": "多米尼加共和国",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "E",
+	"countries": [{
+			"name": "俄罗斯",
+			"isChecked": false
+		},
+		{
+			"name": "厄瓜多尔",
+			"isChecked": false
+		},
+		{
+			"name": "厄立特里亚",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "F",
+	"countries": [{
+			"name": "法国",
+			"isChecked": false
+		},
+		{
+			"name": "法罗群岛",
+			"isChecked": false
+		},
+		{
+			"name": "法属波利尼西亚",
+			"isChecked": false
+		},
+		{
+			"name": "法属圭亚那",
+			"isChecked": false
+		},
+		{
+			"name": "法属南部领土",
+			"isChecked": false
+		},
+		{
+			"name": "梵蒂冈",
+			"isChecked": false
+		},
+		{
+			"name": "菲律宾",
+			"isChecked": false
+		},
+		{
+			"name": "斐济",
+			"isChecked": false
+		},
+		{
+			"name": "芬兰",
+			"isChecked": false
+		},
+		{
+			"name": "佛得角",
+			"isChecked": false
+		},
+		{
+			"name": "福克兰群岛",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "G",
+	"countries": [{
+			"name": "冈比亚",
+			"isChecked": false
+		},
+		{
+			"name": "刚果",
+			"isChecked": false
+		},
+		{
+			"name": "刚果民主共和国",
+			"isChecked": false
+		},
+		{
+			"name": "哥伦比亚",
+			"isChecked": false
+		},
+		{
+			"name": "哥斯达黎加",
+			"isChecked": false
+		},
+		{
+			"name": "格恩西岛",
+			"isChecked": false
+		},
+		{
+			"name": "格林纳达",
+			"isChecked": false
+		},
+		{
+			"name": "格陵兰",
+			"isChecked": false
+		},
+		{
+			"name": "格鲁吉亚",
+			"isChecked": false
+		},
+		{
+			"name": "古巴",
+			"isChecked": false
+		},
+		{
+			"name": "瓜德罗普",
+			"isChecked": false
+		},
+		{
+			"name": "关岛",
+			"isChecked": false
+		},
+		{
+			"name": "圭亚那",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "H",
+	"countries": [{
+			"name": "哈萨克斯坦",
+			"isChecked": false
+		},
+		{
+			"name": "海地",
+			"isChecked": false
+		},
+		{
+			"name": "韩国",
+			"isChecked": false
+		},
+		{
+			"name": "荷兰",
+			"isChecked": false
+		},
+		{
+			"name": "荷属安地列斯群岛",
+			"isChecked": false
+		},
+		{
+			"name": "赫德和麦克唐纳群岛",
+			"isChecked": false
+		},
+		{
+			"name": "洪都拉斯",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "J",
+	"countries": [{
+			"name": "基里巴斯",
+			"isChecked": false
+		},
+		{
+			"name": "吉布提",
+			"isChecked": false
+		},
+		{
+			"name": "吉尔吉斯斯坦",
+			"isChecked": false
+		},
+		{
+			"name": "几内亚",
+			"isChecked": false
+		},
+		{
+			"name": "几内亚比绍",
+			"isChecked": false
+		},
+		{
+			"name": "加拿大",
+			"isChecked": false
+		},
+		{
+			"name": "加纳",
+			"isChecked": false
+		},
+		{
+			"name": "加蓬",
+			"isChecked": false
+		},
+		{
+			"name": "柬埔寨",
+			"isChecked": false
+		},
+		{
+			"name": "捷克共和国",
+			"isChecked": false
+		},
+		{
+			"name": "津巴布韦",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "K",
+	"countries": [{
+			"name": "喀麦隆",
+			"isChecked": false
+		},
+		{
+			"name": "卡塔尔",
+			"isChecked": false
+		},
+		{
+			"name": "开曼群岛",
+			"isChecked": false
+		},
+		{
+			"name": "科摩罗",
+			"isChecked": false
+		},
+		{
+			"name": "科特迪瓦",
+			"isChecked": false
+		},
+		{
+			"name": "科威特",
+			"isChecked": false
+		},
+		{
+			"name": "可可群岛",
+			"isChecked": false
+		},
+		{
+			"name": "克罗地亚",
+			"isChecked": false
+		},
+		{
+			"name": "肯尼亚",
+			"isChecked": false
+		},
+		{
+			"name": "库克群岛",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "L",
+	"countries": [{
+			"name": "拉脱维亚",
+			"isChecked": false
+		},
+		{
+			"name": "莱索托",
+			"isChecked": false
+		},
+		{
+			"name": "老挝",
+			"isChecked": false
+		},
+		{
+			"name": "黎巴嫩",
+			"isChecked": false
+		},
+		{
+			"name": "立陶宛",
+			"isChecked": false
+		},
+		{
+			"name": "利比里亚",
+			"isChecked": false
+		},
+		{
+			"name": "利比亚",
+			"isChecked": false
+		},
+		{
+			"name": "列支敦士登",
+			"isChecked": false
+		},
+		{
+			"name": "留尼汪",
+			"isChecked": false
+		},
+		{
+			"name": "卢森堡",
+			"isChecked": false
+		},
+		{
+			"name": "卢旺达",
+			"isChecked": false
+		},
+		{
+			"name": "罗马尼亚",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "M",
+	"countries": [{
+			"name": "马达加斯加",
+			"isChecked": false
+		},
+		{
+			"name": "马恩岛",
+			"isChecked": false
+		},
+		{
+			"name": "马尔代夫",
+			"isChecked": false
+		},
+		{
+			"name": "马耳他",
+			"isChecked": false
+		},
+		{
+			"name": "马拉维",
+			"isChecked": false
+		},
+		{
+			"name": "马来西亚",
+			"isChecked": false
+		},
+		{
+			"name": "马里",
+			"isChecked": false
+		},
+		{
+			"name": "马其顿",
+			"isChecked": false
+		},
+		{
+			"name": "马绍尔群岛",
+			"isChecked": false
+		},
+		{
+			"name": "马提尼克岛",
+			"isChecked": false
+		},
+		{
+			"name": "马约特岛",
+			"isChecked": false
+		},
+		{
+			"name": "毛里求斯",
+			"isChecked": false
+		},
+		{
+			"name": "毛里塔尼亚",
+			"isChecked": false
+		},
+		{
+			"name": "美国",
+			"isChecked": false
+		},
+		{
+			"name": "美国本土外小岛屿",
+			"isChecked": false
+		},
+		{
+			"name": "美属萨摩亚",
+			"isChecked": false
+		},
+		{
+			"name": "美属维尔京群岛",
+			"isChecked": false
+		},
+		{
+			"name": "蒙古",
+			"isChecked": false
+		},
+		{
+			"name": "蒙特塞拉特岛",
+			"isChecked": false
+		},
+		{
+			"name": "孟加拉国",
+			"isChecked": false
+		},
+		{
+			"name": "秘鲁",
+			"isChecked": false
+		},
+		{
+			"name": "密克罗尼西亚联邦",
+			"isChecked": false
+		},
+		{
+			"name": "缅甸",
+			"isChecked": false
+		},
+		{
+			"name": "摩尔多瓦",
+			"isChecked": false
+		},
+		{
+			"name": "摩洛哥",
+			"isChecked": false
+		},
+		{
+			"name": "摩纳哥",
+			"isChecked": false
+		},
+		{
+			"name": "莫桑比克",
+			"isChecked": false
+		},
+		{
+			"name": "墨西哥",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "N",
+	"countries": [{
+			"name": "瑙鲁",
+			"isChecked": false
+		},
+		{
+			"name": "尼泊尔",
+			"isChecked": false
+		},
+		{
+			"name": "尼加拉瓜",
+			"isChecked": false
+		},
+		{
+			"name": "尼日尔",
+			"isChecked": false
+		},
+		{
+			"name": "尼日利亚",
+			"isChecked": false
+		},
+		{
+			"name": "纽埃岛",
+			"isChecked": false
+		},
+		{
+			"name": "挪威",
+			"isChecked": false
+		},
+		{
+			"name": "诺福克岛",
+			"isChecked": false
+		},
+		{
+			"name": "纳米比亚",
+			"isChecked": false
+		},
+		{
+			"name": "南非",
+			"isChecked": false
+		},
+		{
+			"name": "南极洲",
+			"isChecked": false
+		},
+		{
+			"name": "南乔治亚岛和南桑德韦奇岛",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "P",
+	"countries": [{
+			"name": "帕劳",
+			"isChecked": false
+		},
+		{
+			"name": "皮特凯恩群岛",
+			"isChecked": false
+		},
+		{
+			"name": "葡萄牙",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "R",
+	"countries": [{
+			"name": "日本",
+			"isChecked": false
+		},
+		{
+			"name": "瑞典",
+			"isChecked": false
+		},
+		{
+			"name": "瑞士",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "S",
+	"countries": [{
+			"name": "萨尔瓦多",
+			"isChecked": false
+		},
+		{
+			"name": "萨摩亚",
+			"isChecked": false
+		},
+		{
+			"name": "塞尔维亚和黑山",
+			"isChecked": false
+		},
+		{
+			"name": "塞拉利昂",
+			"isChecked": false
+		},
+		{
+			"name": "塞内加尔",
+			"isChecked": false
+		},
+		{
+			"name": "塞浦路斯",
+			"isChecked": false
+		},
+		{
+			"name": "塞舌尔",
+			"isChecked": false
+		},
+		{
+			"name": "沙特阿拉伯",
+			"isChecked": false
+		},
+		{
+			"name": "圣诞岛",
+			"isChecked": false
+		},
+		{
+			"name": "圣多美和普林西比",
+			"isChecked": false
+		},
+		{
+			"name": "圣赫勒拿岛",
+			"isChecked": false
+		},
+		{
+			"name": "圣基茨和尼维斯",
+			"isChecked": false
+		},
+		{
+			"name": "圣卢西亚",
+			"isChecked": false
+		},
+		{
+			"name": "圣马力诺",
+			"isChecked": false
+		},
+		{
+			"name": "圣皮埃尔岛及密客隆岛",
+			"isChecked": false
+		},
+		{
+			"name": "圣文森特和格林纳丁斯",
+			"isChecked": false
+		},
+		{
+			"name": "斯里兰卡",
+			"isChecked": false
+		},
+		{
+			"name": "斯洛伐克",
+			"isChecked": false
+		},
+		{
+			"name": "斯洛文尼亚",
+			"isChecked": false
+		},
+		{
+			"name": "斯瓦尔巴岛和扬马延岛",
+			"isChecked": false
+		},
+		{
+			"name": "斯威士兰",
+			"isChecked": false
+		},
+		{
+			"name": "苏丹",
+			"isChecked": false
+		},
+		{
+			"name": "苏里南",
+			"isChecked": false
+		},
+		{
+			"name": "所罗门群岛",
+			"isChecked": false
+		},
+		{
+			"name": "索马里",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "T",
+	"countries": [{
+			"name": "塔吉克斯坦",
+			"isChecked": false
+		},
+		{
+			"name": "泰国",
+			"isChecked": false
+		},
+		{
+			"name": "坦桑尼亚",
+			"isChecked": false
+		},
+		{
+			"name": "汤加",
+			"isChecked": false
+		},
+		{
+			"name": "特克斯和凯科斯群岛",
+			"isChecked": false
+		},
+		{
+			"name": "特立尼达和多巴哥",
+			"isChecked": false
+		},
+		{
+			"name": "突尼斯",
+			"isChecked": false
+		},
+		{
+			"name": "图瓦卢",
+			"isChecked": false
+		},
+		{
+			"name": "土耳其",
+			"isChecked": false
+		},
+		{
+			"name": "土库曼斯坦",
+			"isChecked": false
+		},
+		{
+			"name": "托克劳",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "W",
+	"countries": [{
+			"name": "瓦利斯和富图纳群岛",
+			"isChecked": false
+		},
+		{
+			"name": "瓦努阿图",
+			"isChecked": false
+		},
+		{
+			"name": "危地马拉",
+			"isChecked": false
+		},
+		{
+			"name": "委内瑞拉",
+			"isChecked": false
+		},
+		{
+			"name": "文莱",
+			"isChecked": false
+		},
+		{
+			"name": "乌干达",
+			"isChecked": false
+		},
+		{
+			"name": "乌克兰",
+			"isChecked": false
+		},
+		{
+			"name": "乌拉圭",
+			"isChecked": false
+		},
+		{
+			"name": "乌兹别克斯坦",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "X",
+	"countries": [{
+			"name": "西班牙",
+			"isChecked": false
+		},
+		{
+			"name": "西撒哈拉",
+			"isChecked": false
+		},
+		{
+			"name": "希腊",
+			"isChecked": false
+		},
+		{
+			"name": "新加坡",
+			"isChecked": false
+		},
+		{
+			"name": "新喀里多尼亚",
+			"isChecked": false
+		},
+		{
+			"name": "新西兰",
+			"isChecked": false
+		},
+		{
+			"name": "匈牙利",
+			"isChecked": false
+		},
+		{
+			"name": "叙利亚",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "Y",
+	"countries": [{
+			"name": "牙买加",
+			"isChecked": false
+		},
+		{
+			"name": "亚美尼亚",
+			"isChecked": false
+		},
+		{
+			"name": "亚森松岛",
+			"isChecked": false
+		},
+		{
+			"name": "也门",
+			"isChecked": false
+		},
+		{
+			"name": "伊拉克",
+			"isChecked": false
+		},
+		{
+			"name": "伊朗",
+			"isChecked": false
+		},
+		{
+			"name": "以色列",
+			"isChecked": false
+		},
+		{
+			"name": "意大利",
+			"isChecked": false
+		},
+		{
+			"name": "印度",
+			"isChecked": false
+		},
+		{
+			"name": "印度尼西亚",
+			"isChecked": false
+		},
+		{
+			"name": "英国",
+			"isChecked": false
+		},
+		{
+			"name": "英属维尔京群岛",
+			"isChecked": false
+		},
+		{
+			"name": "英属印度洋地区",
+			"isChecked": false
+		},
+		{
+			"name": "约旦",
+			"isChecked": false
+		},
+		{
+			"name": "越南",
+			"isChecked": false
+		}
+	]
+}, {
+	"name": "Z",
+	"countries": [{
+			"name": "赞比亚",
+			"isChecked": false
+		},
+		{
+			"name": "泽西岛",
+			"isChecked": false
+		},
+		{
+			"name": "乍得",
+			"isChecked": false
+		},
+		{
+			"name": "直布罗陀",
+			"isChecked": false
+		},
+		{
+			"name": "智利",
+			"isChecked": false
+		}
+	]
+}]
