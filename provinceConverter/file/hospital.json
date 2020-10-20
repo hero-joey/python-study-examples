@@ -1,0 +1,2334 @@
+{
+"hospital": [
+	{
+		"id" : 1,
+		"name" : "右江民族医学院附属医院",
+		"level" : 3,
+		"area_id" : 54500,
+		"address" : "百色市右江区中山二路18号",
+		"remark" : "这是一个备注",
+		"state" : 2
+	},
+	{
+		"id" : 2,
+		"name" : "大悟县人民医院",
+		"level" : 2,
+		"area_id" : 34200,
+		"address" : "孝感市大悟县城关镇前进大道99号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 3,
+		"name" : "鹤峰县中心医院",
+		"level" : 2,
+		"area_id" : 34200,
+		"address" : "恩施土家族苗族自治州鹤峰县容美镇城墙路18号",
+		"remark" : "测试一下备注信息",
+		"state" : 1
+	},
+	{
+		"id" : 4,
+		"name" : "解放军第457医院",
+		"level" : 3,
+		"area_id" : 34200,
+		"address" : "武汉市汉口工农兵路15号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 5,
+		"name" : "荆门市中医医院(荆门市石化医院)",
+		"level" : 3,
+		"area_id" : 34200,
+		"address" : "荆门市掇刀区白庙路15号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 6,
+		"name" : "潜江市中医医院",
+		"level" : 2,
+		"area_id" : 34200,
+		"address" : "潜江市章华北路3号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 7,
+		"name" : "中山大学附属第三医院",
+		"level" : 3,
+		"area_id" : 54400,
+		"address" : "广州市天河区天河路600号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 8,
+		"name" : "中山大学附属第三医院岭南医院",
+		"level" : 3,
+		"area_id" : 54400,
+		"address" : "广州市黄埔区开创大道2693号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 9,
+		"name" : "阜南县妇幼保健计划服务中心",
+		"level" : 2,
+		"area_id" : 23400,
+		"address" : "阜阳市阜南县富陂大道",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 10,
+		"name" : "阜阳市第五人民医院",
+		"level" : 2,
+		"area_id" : 23400,
+		"address" : "阜阳市颍泉区颖州北路156号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 11,
+		"name" : "海宁市第二人民医院",
+		"level" : 2,
+		"area_id" : 23300,
+		"address" : "海宁市马桥街道镇西路85号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 12,
+		"name" : "杭州金域医学检验所有限公司",
+		"level" : 0,
+		"area_id" : 23300,
+		"address" : "杭州市滨江区滨安路688号天和科技园A座2-5层",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 13,
+		"name" : "合肥金域医学检验实验室有限公司",
+		"level" : 0,
+		"area_id" : 23400,
+		"address" : "合肥市高新区创新大道2800号创新产业园二期H4号楼",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 14,
+		"name" : "张家港广和中西医结合医院",
+		"level" : 2,
+		"area_id" : 23200,
+		"address" : "张家港市金港镇天台南路50号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 15,
+		"name" : "浙江金华广福肿瘤医院浙江省肿瘤医院金华分院（原：金华市第三医院）",
+		"level" : 3,
+		"area_id" : 23300,
+		"address" : "金华市婺城区环城北路1296",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 16,
+		"name" : "镇江市第一人民医院",
+		"level" : 3,
+		"area_id" : 23200,
+		"address" : "镇江市电力路8号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 17,
+		"name" : "赤峰宝山中医医院",
+		"level" : 2,
+		"area_id" : 41500,
+		"address" : "赤峰市元宝山区云杉路",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 18,
+		"name" : "赤峰美年大健康健康管理有限公司赤峰美年大健康体检中心",
+		"level" : 0,
+		"area_id" : 41500,
+		"address" : "赤峰市新城区八家组团德润公馆会所01011",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 19,
+		"name" : "科尔沁右翼中旗蒙医医院",
+		"level" : 3,
+		"area_id" : 41500,
+		"address" : "兴安盟科右中旗巴彦呼舒镇巴彦社区居委会",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 20,
+		"name" : "科尔沁右翼中旗人民医院",
+		"level" : 2,
+		"area_id" : 41500,
+		"address" : "兴安盟科右中旗巴彦呼舒镇巴彦社区居委会",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 21,
+		"name" : "乌拉特前旗博爱医院",
+		"level" : 2,
+		"area_id" : 41500,
+		"address" : "巴彦淖尔市乌拉特前旗西山咀镇十一团农场",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 22,
+		"name" : "兴安盟蒙医院",
+		"level" : 3,
+		"area_id" : 41500,
+		"address" : "兴安盟乌兰浩特市爱国南大路5号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 23,
+		"name" : "正蓝旗医院",
+		"level" : 2,
+		"area_id" : 41500,
+		"address" : "锡林郭勒盟正蓝旗上都镇音高勒西街",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 24,
+		"name" : "正镶白旗医院",
+		"level" : 2,
+		"area_id" : 41500,
+		"address" : "锡林郭勒盟正镶白旗明安图镇乌宁巴图西街",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 25,
+		"name" : "乌鲁木齐市友谊医院",
+		"level" : 3,
+		"area_id" : 76500,
+		"address" : "乌鲁木齐市胜利路22号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 26,
+		"name" : "新疆维吾尔自治区人民医院苏州路分院",
+		"level" : 3,
+		"area_id" : 76500,
+		"address" : "乌鲁木齐市水磨沟区龙盛街苏州路东延",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 27,
+		"name" : "鞍山市中心医院",
+		"level" : 3,
+		"area_id" : 12100,
+		"address" : "鞍山市铁东区南中华路77号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 28,
+		"name" : "白城市医院",
+		"level" : 2,
+		"area_id" : 12200,
+		"address" : "白城市中兴西大路111号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 29,
+		"name" : "北票市中心医院",
+		"level" : 3,
+		"area_id" : 12100,
+		"address" : "北票市府路东段6号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 30,
+		"name" : "本溪市中心医院",
+		"level" : 3,
+		"area_id" : 12100,
+		"address" : "本溪市明山区胜利路29号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 31,
+		"name" : "桓仁满族自治县人民医院",
+		"level" : 2,
+		"area_id" : 12100,
+		"address" : "本溪市桓仁满族自治县桓仁镇长江大街66号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 32,
+		"name" : "鸡东县人民医院",
+		"level" : 2,
+		"area_id" : 12300,
+		"address" : "鸡西市鸡东县中心大街106号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 33,
+		"name" : "吉林省妇幼保健院（吉林省产科质量控制中心）",
+		"level" : 3,
+		"area_id" : 12200,
+		"address" : "吉林省长春市建政路1051号（文化广场东侧）",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 34,
+		"name" : "临江市医院",
+		"level" : 2,
+		"area_id" : 12200,
+		"address" : "白山市临江市临江大街110号-194号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 35,
+		"name" : "齐齐哈尔医学院第一附属医院",
+		"level" : 3,
+		"area_id" : 12300,
+		"address" : "齐齐哈尔市富拉尔基区向阳大街26号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 36,
+		"name" : "通化市人民医院",
+		"level" : 3,
+		"area_id" : 12200,
+		"address" : "通化市新华大街232号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 37,
+		"name" : "肇东市人民医院",
+		"level" : 2,
+		"area_id" : 12300,
+		"address" : "绥化市肇东市民权南路",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 38,
+		"name" : "镇赉县人民医院",
+		"level" : 2,
+		"area_id" : 12200,
+		"address" : "白城市镇赉县镇赉镇庆余南街",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 39,
+		"name" : "中一东北国际医院有限公司",
+		"level" : 3,
+		"area_id" : 12100,
+		"address" : "沈阳市浑南区天赐街2号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 40,
+		"name" : "岫岩满族自治县中心人民医院",
+		"level" : 2,
+		"area_id" : 12100,
+		"address" : "鞍山市岫岩县岫岩镇大宁街105号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 41,
+		"name" : "南皮县人民医院",
+		"level" : 2,
+		"area_id" : 41300,
+		"address" : "沧州市南皮县将军中路16号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 42,
+		"name" : "博山区医院",
+		"level" : 2,
+		"area_id" : 23700,
+		"address" : "淄博市博山区白虎山路32号甲",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 43,
+		"name" : "定陶区人民医院",
+		"level" : 2,
+		"area_id" : 23700,
+		"address" : "菏泽市定陶县站前路A段056号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 44,
+		"name" : "济南市历城区人民医院",
+		"level" : 2,
+		"area_id" : 23700,
+		"address" : "济南市历城区仲宫镇宏福路2号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 45,
+		"name" : "青岛金域医学检验所有限公司",
+		"level" : 0,
+		"area_id" : 23700,
+		"address" : "青岛市崂山区株洲路192号3号楼5层",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 46,
+		"name" : "山东省潍城经济开发区人民医院",
+		"level" : 2,
+		"area_id" : 23700,
+		"address" : "潍坊市潍城区卧龙西街与彩虹路交叉口西200米路北",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 47,
+		"name" : "泰安市妇幼保健院",
+		"level" : 3,
+		"area_id" : 23700,
+		"address" : "泰安市龙潭路386号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 48,
+		"name" : "泰安市岱岳区妇幼保健院",
+		"level" : 2,
+		"area_id" : 23700,
+		"address" : "泰安市岱岳区粥店社区居委会",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 49,
+		"name" : "枣庄市立医院",
+		"level" : 3,
+		"area_id" : 23700,
+		"address" : "枣庄市龙头路41号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 50,
+		"name" : "长治县人民医院",
+		"level" : 2,
+		"area_id" : 41400,
+		"address" : "长治市长治县迎宾西街053号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 51,
+		"name" : "介休市妇幼保健站",
+		"level" : 2,
+		"area_id" : 41400,
+		"address" : "介休市东大街",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 52,
+		"name" : "黎城县人民医院",
+		"level" : 2,
+		"area_id" : 41400,
+		"address" : "长治市黎城县黎侯镇桥南路65号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 53,
+		"name" : "石楼县人民医院",
+		"level" : 2,
+		"area_id" : 41400,
+		"address" : "吕梁市石楼县新建路",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 54,
+		"name" : "首钢长治钢铁有限公司医院",
+		"level" : 2,
+		"area_id" : 41400,
+		"address" : "长治市郊区故县南大街23号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 55,
+		"name" : "太原市人民医院",
+		"level" : 2,
+		"area_id" : 41400,
+		"address" : "太原市迎泽区杏花岭6号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 56,
+		"name" : "运城市盐湖区人民医院",
+		"level" : 2,
+		"area_id" : 41400,
+		"address" : "运城市凤凰北路152号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 57,
+		"name" : "甘肃省妇幼保健院",
+		"level" : 3,
+		"area_id" : 76200,
+		"address" : "兰州市七里河北街143号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 58,
+		"name" : "金昌市第一人民医院",
+		"level" : 2,
+		"area_id" : 76200,
+		"address" : "金昌市河西堡镇",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 59,
+		"name" : "西安大兴医院（西安市莲湖区红庙坡医院）",
+		"level" : 3,
+		"area_id" : 76100,
+		"address" : "西安市劳动北路353号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 60,
+		"name" : "西吉县人民医院",
+		"level" : 2,
+		"area_id" : 76400,
+		"address" : "固原市西吉县中街",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 61,
+		"name" : "焦作市人民医院",
+		"level" : 3,
+		"area_id" : 34100,
+		"address" : "焦作市解放中路267号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 62,
+		"name" : "临澧县中医院",
+		"level" : 2,
+		"area_id" : 34300,
+		"address" : "常德市临澧县城关镇迎宾路269号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 63,
+		"name" : "三门峡黄河医院",
+		"level" : 3,
+		"area_id" : 34100,
+		"address" : "三门峡市和平西路2号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 64,
+		"name" : "石门县人民医院",
+		"level" : 3,
+		"area_id" : 34300,
+		"address" : "常德市石门县渫阳路45号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 65,
+		"name" : "湘潭市第三人民医院",
+		"level" : 2,
+		"area_id" : 34300,
+		"address" : "湘潭市岳塘区板塘铺板马路20号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 66,
+		"name" : "义煤集团总医院",
+		"level" : 2,
+		"area_id" : 34100,
+		"address" : "义马市千秋路西段",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 67,
+		"name" : "安岳县第三人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "资阳市安岳县岳阳镇北坝开发区",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 68,
+		"name" : "安岳县中医医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "资阳市安岳县岳阳镇正北街71号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 69,
+		"name" : "北川县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "绵阳市北川羌族自治县永昌镇新川路4-6号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 70,
+		"name" : "长宁县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "宜宾市长宁县长宁镇竹海路三段65号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 71,
+		"name" : "达川区人民医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "达州市通川区朝阳东路462号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 72,
+		"name" : "达州市中西医结合医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "达州市通川区西外龙泉路1号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 73,
+		"name" : "德昌县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "凉山州德昌县东风路76号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 74,
+		"name" : "德阳市第二人民医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "德阳市岷江西路一段340号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 75,
+		"name" : "峨边彝族自治县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "乐山市峨边彝族自治县沙坪镇大坪路7号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 76,
+		"name" : "峨眉山市人民医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "峨眉山市绥山镇三台山街94号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 77,
+		"name" : "古蔺县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "泸州市古蔺县古蔺阵东新街马厂头",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 78,
+		"name" : "广元市第四人民医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "广元市经济开发区利州西路二段92号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 79,
+		"name" : "广元市妇幼保健院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "广元市利州区滨河北路二段51号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 80,
+		"name" : "广元市利州区中医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "广元市利州区宝轮镇水电路212号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 81,
+		"name" : "广元市昭化区人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "广元市昭化区元坝镇",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 82,
+		"name" : "汉源县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "雅安市汉源县富林镇富林大道二段128号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 83,
+		"name" : "汉源县中医医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "雅安市汉源县九襄镇交通南路88号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 84,
+		"name" : "洪雅县第二人民医院",
+		"level" : 1,
+		"area_id" : 85100,
+		"address" : "眉山市洪雅县洪州大道120号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 85,
+		"name" : "洪雅县中医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "眉山市洪雅县洪川镇西横街72号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 86,
+		"name" : "华蓥市人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "华蓥市双河镇滨河西路",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 87,
+		"name" : "乐至县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "资阳市乐至县公园路70号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 88,
+		"name" : "凉山彝族自治州第二人民医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "西昌市健康路143号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 89,
+		"name" : "茂县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "阿坝州茂县凤仪镇北大街284号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 90,
+		"name" : "绵阳市中医医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "绵阳市涪城路14号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 91,
+		"name" : "南充市顺庆区人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "南充市顺庆区仪凤街125号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 92,
+		"name" : "南江县中医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "巴中市南江县月潭路49号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 93,
+		"name" : "内江市第一人民医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "内江市交通路沱中巷31号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 94,
+		"name" : "宁南县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "宁南县披砂镇顺城北街206号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 95,
+		"name" : "攀钢西昌医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "凉山彝族自治州西昌市长宁小区",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 96,
+		"name" : "攀枝花钢铁有限责任公司(攀钢职工总医院)",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "攀枝花市金沙江北岸",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 97,
+		"name" : "仁寿县人民医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "眉山市仁寿县文林镇龙滩大道6号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 98,
+		"name" : "石棉县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "雅安市石棉县人民路11号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 99,
+		"name" : "四川大家医学检测有限公司",
+		"level" : 0,
+		"area_id" : 85100,
+		"address" : "成都高新区安和二路8号2栋7层A区",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 100,
+		"name" : "遂宁市中心医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "遂宁市船山区德胜西路127号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 101,
+		"name" : "威远县第三人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "内江市威远县连界镇",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 102,
+		"name" : "叙永县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "泸州市叙永县叙永镇宝珠街公园巷9号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 103,
+		"name" : "宣汉县人民医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "达州市宣汉县东乡镇解放中路75",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 104,
+		"name" : "仪陇德庆医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "南充市仪陇县新政镇嘉陵路",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 105,
+		"name" : "宜宾市第一人民医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "宜宾市翠屏区文星街65号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 106,
+		"name" : "营山县中医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "南充市营山县朗池镇磨子街97号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 107,
+		"name" : "昭觉县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "凉山彝族自治州昭觉县新城镇大坪巷1号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 108,
+		"name" : "自贡市第四人民医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "自贡市自流井区檀木林街19号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 109,
+		"name" : "自贡市第一人民医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "自贡市自流井区尚义灏一支路42号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 110,
+		"name" : "邛崃市中医医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "成都市邛崃市临邛镇西街59号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 111,
+		"name" : "泸县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "泸州市泸县龙脑大道628号附1号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 112,
+		"name" : "泸州市龙马潭区中医医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "泸州市龙马潭区龙马大道春雨路4号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 113,
+		"name" : "泸州市人民医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "泸州市江阳区忠孝路61号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 114,
+		"name" : "昌宁县人民医院",
+		"level" : 2,
+		"area_id" : 85300,
+		"address" : "保山市昌宁县田园镇滨河西路7号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 115,
+		"name" : "个旧市第二人民医院",
+		"level" : 2,
+		"area_id" : 85300,
+		"address" : "红河哈尼族彝族自治州个旧市大屯镇",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 116,
+		"name" : "剑川县人民医院",
+		"level" : 2,
+		"area_id" : 85300,
+		"address" : "大理白族自治州剑川县金华镇剑鹤路中登村南侧",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 117,
+		"name" : "宁洱哈尼族彝族自治县人民医院",
+		"level" : 2,
+		"area_id" : 85300,
+		"address" : "宁洱哈尼族彝族自治县宁洱镇茶源路88号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 118,
+		"name" : "水富市人民医院",
+		"level" : 2,
+		"area_id" : 85300,
+		"address" : "水富市高滩新区上海路与平安路交叉口西150米",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 119,
+		"name" : "西山区第三人民医院",
+		"level" : 2,
+		"area_id" : 85300,
+		"address" : "昆明市西山区桃树箐",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 120,
+		"name" : "祥云县人民医院",
+		"level" : 2,
+		"area_id" : 85300,
+		"address" : "大理白族自治州祥云县祥城镇青红路223号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 121,
+		"name" : "永平县人民医院",
+		"level" : 2,
+		"area_id" : 85300,
+		"address" : "大理白族自治州永平县新民街194号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 122,
+		"name" : "永仁县人民医院",
+		"level" : 2,
+		"area_id" : 85300,
+		"address" : "楚雄市永定镇环城西路2号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 123,
+		"name" : "播州区中医院",
+		"level" : 2,
+		"area_id" : 85200,
+		"address" : "遵义市播州区龙坑镇遵南大道315号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 124,
+		"name" : "赤水市人民医院",
+		"level" : 2,
+		"area_id" : 85200,
+		"address" : "赤水市公园路8号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 125,
+		"name" : "独山县人民医院",
+		"level" : 2,
+		"area_id" : 85200,
+		"address" : "黔南市独山县百泉镇营上路1号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 126,
+		"name" : "平塘县人民医院",
+		"level" : 2,
+		"area_id" : 85200,
+		"address" : "黔南布依族苗族自治州平塘县健康路49号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 127,
+		"name" : "绥阳县人民医院",
+		"level" : 2,
+		"area_id" : 85200,
+		"address" : "遵义市绥阳县洋川镇南街社区居委会",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 128,
+		"name" : "绥阳县中医院",
+		"level" : 2,
+		"area_id" : 85200,
+		"address" : "绥阳县洋川镇北环中路4号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 129,
+		"name" : "遵义市红花岗区人民医院",
+		"level" : 2,
+		"area_id" : 85200,
+		"address" : "遵义市红花岗区万里路185号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 130,
+		"name" : "榕江县人民医院",
+		"level" : 2,
+		"area_id" : 85200,
+		"address" : "黔东南苗族侗族自治州古州西路11号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 131,
+		"name" : "奉节县人民医院",
+		"level" : 2,
+		"area_id" : 85000,
+		"address" : "重庆市永安镇新桥路６１号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 132,
+		"name" : "巫山县中医院",
+		"level" : 2,
+		"area_id" : 85000,
+		"address" : "重庆市巫山县城区广东中路",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 133,
+		"name" : "巫溪县人民医院",
+		"level" : 2,
+		"area_id" : 85000,
+		"address" : "重庆市巫溪县柏杨街道万通路100号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 134,
+		"name" : "秀山县妇幼保健院",
+		"level" : 2,
+		"area_id" : 85000,
+		"address" : "重庆市县秀山土家族苗族自治县中和镇凤翔路",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 135,
+		"name" : "重庆合川宏仁医院有限公司",
+		"level" : 2,
+		"area_id" : 85000,
+		"address" : "重庆市合川区合阳办蟠龙村堰塘湾",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 136,
+		"name" : "重庆宏仁一医院有限公司",
+		"level" : 2,
+		"area_id" : 85000,
+		"address" : "重庆市南川区西城街道渝南大道6号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 137,
+		"name" : "重庆市梁平区人民医院",
+		"level" : 2,
+		"area_id" : 85000,
+		"address" : "重庆市梁平区碧桂路16号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 138,
+		"name" : "重庆市黔江区中医院",
+		"level" : 2,
+		"area_id" : 85000,
+		"address" : "重庆市黔江区石城路165号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 139,
+		"name" : "重庆市武隆县人民医院",
+		"level" : 2,
+		"area_id" : 85000,
+		"address" : "重庆市县武隆县巷口镇梓潼社区居委会",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 140,
+		"name" : "重庆市肿瘤研究所",
+		"level" : 3,
+		"area_id" : 85000,
+		"address" : "重庆市沙坪坝区汉渝路181号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 141,
+		"name" : "郧西县人民医院",
+		"level" : 2,
+		"area_id" : 34200,
+		"address" : "十堰市郧西县康富大道43号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 142,
+		"name" : "慈铭健康体检管理集团武汉有限公司",
+		"level" : 0,
+		"area_id" : 34200,
+		"address" : "武汉市汉口西北湖万豪国际慈铭体检",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 143,
+		"name" : "龙川县人民医院",
+		"level" : 2,
+		"area_id" : 54400,
+		"address" : "河源市龙川县老隆镇老隆大道83号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 144,
+		"name" : "茂名市第三人民医院",
+		"level" : 2,
+		"area_id" : 54400,
+		"address" : "茂名市高州市红荔路38号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 145,
+		"name" : "滨海县中医院",
+		"level" : 2,
+		"area_id" : 23200,
+		"address" : "盐城市滨海县向阳大道390号(吉达广场西侧",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 146,
+		"name" : "慈铭健康体检管理集团杭州有限公司",
+		"level" : 0,
+		"area_id" : 23300,
+		"address" : "杭州市江干区凯旋路445号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 147,
+		"name" : "上海电力医院",
+		"level" : 2,
+		"area_id" : 23100,
+		"address" : "上海市市辖区长宁区上海市长宁区延安西路937",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 148,
+		"name" : "铜山区大许镇中心卫生院",
+		"level" : 2,
+		"area_id" : 23200,
+		"address" : "徐州市铜山区文明路大许实验小学旁",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 149,
+		"name" : "阿鲁科尔沁旗医院",
+		"level" : 2,
+		"area_id" : 41500,
+		"address" : "赤峰市阿鲁科尔沁旗天元大街",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 150,
+		"name" : "乌鲁木齐经济技术开发区（头屯河区）第二人民医院",
+		"level" : 2,
+		"area_id" : 76500,
+		"address" : "乌鲁木齐市头屯河区八一北路",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 151,
+		"name" : "新疆维吾尔自治区人民医院",
+		"level" : 3,
+		"area_id" : 76500,
+		"address" : "乌鲁木齐市天池路91号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 152,
+		"name" : "新疆美年大健康管理有限公司",
+		"level" : 2,
+		"area_id" : 76500,
+		"address" : "乌鲁木齐市天山区燕儿窝路788号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 153,
+		"name" : "黑龙江省大家医学检验中心有限公司",
+		"level" : 0,
+		"area_id" : 12300,
+		"address" : "哈尔滨市松北区智谷二街3043号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 154,
+		"name" : "佳木斯大学附属第一医院",
+		"level" : 3,
+		"area_id" : 12300,
+		"address" : "佳木斯市德祥街348号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 155,
+		"name" : "齐齐哈尔碾子山区人民医院",
+		"level" : 2,
+		"area_id" : 12300,
+		"address" : "齐齐哈尔繁荣路35号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 156,
+		"name" : "保定市第一医院",
+		"level" : 3,
+		"area_id" : 41300,
+		"address" : "保定市百花东路966号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 157,
+		"name" : "盐山县人民医院",
+		"level" : 2,
+		"area_id" : 41300,
+		"address" : "沧州市盐山县康复路34号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 158,
+		"name" : "济南大家医学检验有限公司",
+		"level" : 0,
+		"area_id" : 23700,
+		"address" : "济南市高新区春晖路2966号生产厂8号楼",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 159,
+		"name" : "青岛慈铭健康管理有限公司市南门诊部",
+		"level" : 0,
+		"area_id" : 23700,
+		"address" : "青岛市市南区燕儿岛路8号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 160,
+		"name" : "张掖仁济医院",
+		"level" : 0,
+		"area_id" : 76200,
+		"address" : "张掖市甘州区北大街什字西北角59号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 161,
+		"name" : "湖南省岳阳市湘阴县中医院",
+		"level" : 2,
+		"area_id" : 34300,
+		"address" : "岳阳市湘阴县东湖路城北学校对面",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 162,
+		"name" : "铅山县人民医院",
+		"level" : 2,
+		"area_id" : 23600,
+		"address" : "上饶市铅山县河口镇胜利南路11号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 163,
+		"name" : "合江县中医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "泸州市合江县合江镇建设路中段",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 164,
+		"name" : "木里县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "凉山州木里藏族自治县乔瓦镇乔瓦社区居民委员会",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 165,
+		"name" : "彭州市中医医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "彭州市天彭镇南大街396号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 166,
+		"name" : "屏山县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "宜宾市屏山县屏山镇金沙江大道1号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 167,
+		"name" : "什邡市人民医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "什邡市安康路6号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 168,
+		"name" : "四川省阿坝县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "成都高新区安和二路8号2栋7层A区",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 169,
+		"name" : "四川省骨科医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "成都市武侯区一环路西一段132号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 170,
+		"name" : "武警四川省总队医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "乐山市中心城区柏杨东路548号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 171,
+		"name" : "宜宾市第二人民医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "宜宾市翠屏区北大街96号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 172,
+		"name" : "中国人民解放军第五二零医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "绵阳市剑门路西段278号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 173,
+		"name" : "大理大学第一附属医院",
+		"level" : 3,
+		"area_id" : 85300,
+		"address" : "大理市嘉士伯大道32号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 174,
+		"name" : "昭通仁安医院",
+		"level" : 0,
+		"area_id" : 85300,
+		"address" : "昭通市昭阳区威信路9号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 175,
+		"name" : "贵航安顺医院",
+		"level" : 3,
+		"area_id" : 85200,
+		"address" : "安顺市西秀区三〇二医院",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 176,
+		"name" : "荔波县中医院",
+		"level" : 2,
+		"area_id" : 85200,
+		"address" : "黔南布依族苗族自治州荔波县建设西路",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 177,
+		"name" : "六盘水市人民医院",
+		"level" : 3,
+		"area_id" : 85200,
+		"address" : "六盘水市钟山西路56号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 178,
+		"name" : "梁平县中医医院",
+		"level" : 2,
+		"area_id" : 85000,
+		"address" : "重庆市县梁平县梁山镇",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 179,
+		"name" : "重庆市南川区中医医院",
+		"level" : 2,
+		"area_id" : 85000,
+		"address" : "重庆市南川区城西路42号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 180,
+		"name" : "松滋市中医医院",
+		"level" : 2,
+		"area_id" : 34200,
+		"address" : "松滋市新江口镇乐乡大道93号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 181,
+		"name" : "武汉大家医学检验实验室有限公司",
+		"level" : 0,
+		"area_id" : 34200,
+		"address" : "武汉市关山大道463号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 182,
+		"name" : "钟祥市人民医院",
+		"level" : 3,
+		"area_id" : 34200,
+		"address" : "钟祥市南湖原种场祥云大道19号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 183,
+		"name" : "竹山县妇幼保健院",
+		"level" : 2,
+		"area_id" : 34200,
+		"address" : "十堰市竹山县城关镇西关街497号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 184,
+		"name" : "佛冈县人民医院",
+		"level" : 2,
+		"area_id" : 54400,
+		"address" : "清远市佛冈县石角镇环城中路287号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 185,
+		"name" : "广州市天河区妇幼保健计划生育服务中心",
+		"level" : 2,
+		"area_id" : 54400,
+		"address" : "广州市天河北路367号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 186,
+		"name" : "广州市胸科医院（广州市结核病防治所、广州市结核病治疗中心）",
+		"level" : 3,
+		"area_id" : 54400,
+		"address" : "广州市横枝岗路62号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 187,
+		"name" : "中山市三角医院",
+		"level" : 1,
+		"area_id" : 54400,
+		"address" : "中山市三角镇南三公路爱国路段",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 188,
+		"name" : "灌南县人民医院",
+		"level" : 2,
+		"area_id" : 23200,
+		"address" : "连云港市灌南县新安镇人民路6号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 189,
+		"name" : "徐州市矿山医院",
+		"level" : 2,
+		"area_id" : 23200,
+		"address" : "徐州市泉山区淮海西路与西三环交汇处",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 190,
+		"name" : "巴彦淖尔市医院",
+		"level" : 3,
+		"area_id" : 41500,
+		"address" : "巴彦淖尔市临河区乌兰布和路98号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 191,
+		"name" : "白城中医院",
+		"level" : 2,
+		"area_id" : 12200,
+		"address" : "白城市洮北区青年南大街16号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 192,
+		"name" : "长春美年大健康宇宸医院有限公司朝阳区美年综合门诊部",
+		"level" : 0,
+		"area_id" : 12200,
+		"address" : "长春市朝阳区建设街888号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 193,
+		"name" : "大连美年健康星海综合门诊部有限公司",
+		"level" : 0,
+		"area_id" : 12100,
+		"address" : "大连市沙河口区中山路592号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 194,
+		"name" : "鹤岗市人民医院",
+		"level" : 3,
+		"area_id" : 12300,
+		"address" : "鹤岗市工农区电信路一号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 195,
+		"name" : "吉林金域医学检验所有限公司",
+		"level" : 0,
+		"area_id" : 12200,
+		"address" : "长春市高新开发区光谷大街1977号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 196,
+		"name" : "集贤县人民医院",
+		"level" : 2,
+		"area_id" : 12300,
+		"address" : "双鸭山市集贤县福双路180号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 197,
+		"name" : "齐齐哈尔市中医医院",
+		"level" : 3,
+		"area_id" : 12300,
+		"address" : "齐齐哈尔市铁锋区平安南街140号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 198,
+		"name" : "中国人民解放军北部战区总医院和平分院",
+		"level" : 3,
+		"area_id" : 12100,
+		"address" : "沈阳市和平区光荣街5号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 199,
+		"name" : "保定市第一中医院",
+		"level" : 3,
+		"area_id" : 41300,
+		"address" : "保定市裕华西路530号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 200,
+		"name" : "河北省沧州中西医结合医院",
+		"level" : 3,
+		"area_id" : 41300,
+		"address" : "沧州市黄河路31号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 201,
+		"name" : "献县中医医院",
+		"level" : 2,
+		"area_id" : 41300,
+		"address" : "沧州市献县西关大街43号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 202,
+		"name" : "临沂市罗庄区人民医院",
+		"level" : 2,
+		"area_id" : 23700,
+		"address" : "临沂市罗庄区双月园路123号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 203,
+		"name" : "青岛市黄岛区人民医院",
+		"level" : 2,
+		"area_id" : 23700,
+		"address" : "青岛市黄岛区人民路287号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 204,
+		"name" : "长治市人民医院",
+		"level" : 3,
+		"area_id" : 41400,
+		"address" : "长治市长兴中路502号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 205,
+		"name" : "长治医学院附属和平医院",
+		"level" : 3,
+		"area_id" : 41400,
+		"address" : "长治市延安南路110号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 206,
+		"name" : "壶关县人民医院",
+		"level" : 2,
+		"area_id" : 41400,
+		"address" : "长治市壶关县龙泉镇古城路145号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 207,
+		"name" : "晋城市妇幼保健院",
+		"level" : 3,
+		"area_id" : 41400,
+		"address" : "晋城市凤台西街2753号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 208,
+		"name" : "太原市万柏林区中心医院",
+		"level" : 2,
+		"area_id" : 41400,
+		"address" : "太原市万柏林区众纺路2号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 209,
+		"name" : "武乡县人民医院",
+		"level" : 2,
+		"area_id" : 41400,
+		"address" : "长治市武乡县丰州镇迎宾街149号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 210,
+		"name" : "中铁十七局集团有限公司中心医院",
+		"level" : 2,
+		"area_id" : 41400,
+		"address" : "太原市小店区人民北路",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 211,
+		"name" : "山丹县人民医院",
+		"level" : 2,
+		"area_id" : 76200,
+		"address" : "张掖市山丹县南大街24号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 212,
+		"name" : "保靖县人民医院",
+		"level" : 2,
+		"area_id" : 34300,
+		"address" : "湘西市保靖县北门路",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 213,
+		"name" : "福州金域医学检验所有限公司",
+		"level" : 0,
+		"area_id" : 23500,
+		"address" : "福州市鼓楼区软件园C区58号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 214,
+		"name" : "吉首市人民医院",
+		"level" : 2,
+		"area_id" : 34300,
+		"address" : "吉首市人民北路73号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 215,
+		"name" : "湘西自治州肿瘤医院",
+		"level" : 2,
+		"area_id" : 34300,
+		"address" : "湘西土家族苗族自治州吉首市一心路37号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 216,
+		"name" : "株洲县第一人民医院",
+		"level" : 2,
+		"area_id" : 34300,
+		"address" : "株洲市株洲县渌口镇江南南路48号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 217,
+		"name" : "柘荣县医院",
+		"level" : 2,
+		"area_id" : 23500,
+		"address" : "宁德市柘荣县双城镇上桥路8号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 218,
+		"name" : "成都市新都区妇幼保健院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "成都市新都区新都大道309号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 219,
+		"name" : "成都市郫都区中医医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "成都市郫都区郫筒镇南大街342号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 220,
+		"name" : "达州市中心医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "达州市通川区南岳庙街56号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 221,
+		"name" : "红原县人民医院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "阿坝藏族羌族自治州红原县",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 222,
+		"name" : "绵阳市中心医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "绵阳市涪城区警钟街常家巷12号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 223,
+		"name" : "四川省医学科学院附属医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "简阳市东溪镇奎星八组",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 224,
+		"name" : "云南大家医学检验所有限公司",
+		"level" : 0,
+		"area_id" : 85300,
+		"address" : "昆明市高新区新光巷169号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 225,
+		"name" : "贵州大家医学检验中心有限公司",
+		"level" : 0,
+		"area_id" : 85200,
+		"address" : "贵阳市白云区吊堡村毛庄铺组",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 226,
+		"name" : "贵州省第二人民医院",
+		"level" : 3,
+		"area_id" : 85200,
+		"address" : "贵阳市新添大道南段318号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 227,
+		"name" : "盘州市人民医院",
+		"level" : 2,
+		"area_id" : 85200,
+		"address" : "六盘水市钟山区钟山西路47号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 228,
+		"name" : "晴隆县人民医院",
+		"level" : 2,
+		"area_id" : 85200,
+		"address" : "黔西南布依族苗族自治州晴隆县莲城镇西街",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 229,
+		"name" : "铜仁市万山区人民医院",
+		"level" : 2,
+		"area_id" : 85200,
+		"address" : "铜仁市万山区谢桥新区莲花大道",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 230,
+		"name" : "重庆计生医院",
+		"level" : 2,
+		"area_id" : 85000,
+		"address" : "重庆市江北区洋河二村五号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 231,
+		"name" : "重庆市荣昌区人民医院",
+		"level" : 2,
+		"area_id" : 85000,
+		"address" : "重庆市荣昌区昌元街道广场北路3号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 232,
+		"name" : "重庆市潼南县人民医院",
+		"level" : 2,
+		"area_id" : 85000,
+		"address" : "重庆市潼南区梓潼街道办事处大同街271号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 233,
+		"name" : "重庆市綦江区人民医院",
+		"level" : 3,
+		"area_id" : 85000,
+		"address" : "重庆市綦江区古南街道沱湾支路54号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 300,
+		"name" : "迈克生物股份有限公司",
+		"level" : 0,
+		"area_id" : 85100,
+		"address" : "四川省成都市高新区安和2路M7-5F",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 301,
+		"name" : "仪器研发测试部",
+		"level" : 0,
+		"area_id" : 85100,
+		"address" : "四川省成都市高新区安和2路",
+		"remark" : "仅用于内部测试",
+		"state" : 2
+	},
+	{
+		"id" : 302,
+		"name" : "仪器云测试",
+		"level" : 0,
+		"area_id" : 85100,
+		"address" : "安和二路M2-7",
+		"remark" : "仪器云项目测试组测试用",
+		"state" : 2
+	},
+	{
+		"id" : 304,
+		"name" : "测试111",
+		"level" : 1,
+		"area_id" : 23100,
+		"address" : "测试地址汇总",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 306,
+		"name" : "测试用机构名",
+		"level" : 0,
+		"area_id" : 23200,
+		"address" : "江苏的医院",
+		"remark" : "",
+		"state" : 2
+	},
+	{
+		"id" : 307,
+		"name" : "双流县第一人民医院",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "成都市双流区东升西北街149号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 308,
+		"name" : "测试",
+		"level" : 0,
+		"area_id" : 12200,
+		"address" : "气温达到",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 313,
+		"name" : "测试测试1测试测试1测试测",
+		"level" : 0,
+		"area_id" : 85100,
+		"address" : "测试测试1",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 314,
+		"name" : "四川迈克生物科技股份有限公司产品注册部",
+		"level" : 0,
+		"area_id" : 85100,
+		"address" : "成都市高新区安和二路8号",
+		"remark" : "",
+		"state" : 2
+	},
+	{
+		"id" : 315,
+		"name" : "四川迈克生物科技股份有限公司试剂研发免疫部",
+		"level" : 0,
+		"area_id" : 85100,
+		"address" : "高新区安和二路8号",
+		"remark" : "",
+		"state" : 2
+	},
+	{
+		"id" : 316,
+		"name" : "长春美年大健康宇宸医院有限公司朝阳健康体检中心",
+		"level" : 0,
+		"area_id" : 12200,
+		"address" : "长春市朝阳区建设街888号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 317,
+		"name" : "四川迈克生物科技股份有限公司试剂生产车间",
+		"level" : 0,
+		"area_id" : 85100,
+		"address" : "高新区安和二路8号",
+		"remark" : "",
+		"state" : 2
+	},
+	{
+		"id" : 318,
+		"name" : "攀枝花市仁和区人民医院攀枝花市中心医院仁和分院",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "攀枝花市攀枝花大道南段1203",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 319,
+		"name" : "贵阳医学院第三附属医院（都匀414医院）",
+		"level" : 3,
+		"area_id" : 85200,
+		"address" : "都匀市七星路7号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 320,
+		"name" : "聊城市肿瘤医院聊城市肝病医院聊城市结核病防治中心聊城市传染病医院",
+		"level" : 3,
+		"area_id" : 23700,
+		"address" : "聊城市建设东路45号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 321,
+		"name" : "湘潭市美年大健康健康管理有限公司岳塘门诊部",
+		"level" : 0,
+		"area_id" : 34300,
+		"address" : "湘潭市岳塘区宝塔街道吉安路87号吉安大厦",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 322,
+		"name" : "新疆美年大健康健康管理有限公司乌鲁木齐水磨沟区门诊部",
+		"level" : 0,
+		"area_id" : 76500,
+		"address" : "乌鲁木齐市水磨沟区昆仑路103号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 323,
+		"name" : "永州美年大健康健康管理有限公司育才路门诊部",
+		"level" : 0,
+		"area_id" : 34300,
+		"address" : "永州市冷水滩区河东育才路华源府第门面",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 324,
+		"name" : "中国工程物理研究院职工医院（绵阳科学城医院）",
+		"level" : 3,
+		"area_id" : 85100,
+		"address" : "绵阳市游仙区绵山路64号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 325,
+		"name" : "石家庄美年大健康体检管理有限公司桥西门诊部",
+		"level" : 0,
+		"area_id" : 41300,
+		"address" : "石家庄市桥西区友谊北大街75号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 329,
+		"name" : "505267",
+		"level" : 2,
+		"area_id" : 85100,
+		"address" : "A市B镇C区XX小区2-1-1232",
+		"remark" : "1231323",
+		"state" : 0
+	},
+	{
+		"id" : 331,
+		"name" : "厦门医学高等专科学校附属第二医院厦门市集美医院",
+		"level" : 3,
+		"area_id" : 23500,
+		"address" : "厦门市集美区尚南路35号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 332,
+		"name" : "青岛大学医学院附属医院黄岛分院青岛市西海岸医院",
+		"level" : 3,
+		"area_id" : 23700,
+		"address" : "山东省五台山路1677号",
+		"remark" : "",
+		"state" : 1
+	},
+	{
+		"id" : 333,
+		"name" : "我我我我我我我我我我我我我我我我我我我我我我我我我我我二问问问问问问我饿认为认为人问二二",
+		"level" : 0,
+		"area_id" : 12100,
+		"address" : "我我认为",
+		"remark" : "333",
+		"state" : 1
+	},
+	{
+		"id" : 335,
+		"name" : "123213123123123123123213213213123123123123123",
+		"level" : 0,
+		"area_id" : 85100,
+		"address" : "迈克生物retertrewtre555555555555555555555555555o5oooo5o5oooo55555555555555555555555555555555555555555555",
+		"remark" : "尔特让他热特让他人羊肉汤也突然有人头有突",
+		"state" : 1
+	},
+	{
+		"id" : 366,
+		"name" : "testchenyong",
+		"level" : 0,
+		"area_id" : 85100,
+		"address" : "迈克生物公司7楼仪器云小组",
+		"remark" : "测试",
+		"state" : 1
+	}
+]}
